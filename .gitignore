@@ -1,0 +1,4 @@
+# Jake Burton SET11508 Coursework 
+# Ignore unnecessary folder
+.ipynb_checkpoints
+*.zip
